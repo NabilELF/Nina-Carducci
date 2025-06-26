@@ -82,6 +82,7 @@ body {
 .about-me__introduction {
 	font-family: 'Spectral';
 	font-weight: 800;
+	font-size: 18px;
 	font-style: italic;
 	width: 60%;
 }
@@ -104,6 +105,10 @@ body {
 	color: #fff;
 	background-color: #BEB45A;
 	border-radius:0 ;
+}
+
+.nav-link:hover {
+  cursor: pointer;
 }
 .nav-pills .nav-link {
 	color: #000
@@ -146,6 +151,7 @@ body {
 .quote__text {
 	font-family: Spectral;
 	font-style: italic;
+	font-size: 35px;
 	font-weight: 300;
 
 }
