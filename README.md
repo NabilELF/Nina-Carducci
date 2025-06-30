@@ -41,11 +41,3 @@
 ![alt text](image.png)
 
 ---
-
-A REGLER
-
-- https://search.google.com/test/rich-results : Aucun élément détecté
-
-- WAVE : 3 problemes contrasts
-
-- Déplacer les script dans le Head
