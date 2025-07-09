@@ -181,7 +181,7 @@
         }
       });
 
-      //Changement effectué pour passer à l'étape suivante
+      //Changement effectué pour passer à l'image suivante
       next = imagesCollection[index + 1] || imagesCollection[0];
       $(".lightboxImage").attr("src", $(next).attr("src"));
     },
